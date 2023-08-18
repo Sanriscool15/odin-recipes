@@ -1,5 +1,5 @@
-
-h1 {font-size: 34px;
+*{border-style: solid;}
+h1 {font-size: 50px;
 color: green;}
 .ingridients,.dsc{font-size: 25px; word-spacing: 1.5px;}
 .map{ width: 350px;
