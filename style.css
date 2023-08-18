@@ -1,0 +1,13 @@
+
+#recipes{
+    font-size: 34px; 
+    border-style: dotted; 
+    border-color: aqua;}
+.sopa a{color: orange;
+    text-decoration: none;}
+.mac a{color: rgb(255, 196, 3);
+    text-decoration: none;}
+.cucumber a{color: green;
+    text-decoration: none;}
+.intro{font-size: 25px;
+}

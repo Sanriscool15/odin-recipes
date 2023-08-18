@@ -1,0 +1,13 @@
+
+h1 {font-size: 34px;
+color: green;}
+.ingridients,.dsc{font-size: 25px; word-spacing: 1.5px;}
+.map{ width: 350px;
+display: block;
+margin-left: auto;
+margin-right: auto;}
+.ccmbr{width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+.ingridients{line-height: 2.5em;}
